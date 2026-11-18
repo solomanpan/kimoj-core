@@ -9,7 +9,7 @@ The shared kernel of [kimoj](https://github.com/solomanpan/kimoj) (the Go twin o
 * `rctx` — request context: request id, operator, locale.
 
 ```bash
-go get github.com/solomanpan/kimoj-core@v0.1.0
+go get github.com/solomanpan/kimoj-core@v1.0.0
 go test ./...
 ```
 
